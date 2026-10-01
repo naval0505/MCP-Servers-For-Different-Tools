@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "wireshark": {
+      "command": "C:\\Users\\Dharmesh\\Desktop\\MCP_SERVER\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\Dharmesh\\Desktop\\MCP_SERVER\\server.py"
+      ]
+    }
+  }
+}
