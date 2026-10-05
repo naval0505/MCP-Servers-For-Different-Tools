@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gdb-mcp": {
+      "command": "/usr/bin/python",
+      "args": [
+        "/home/kali/mcp/gdb/gdb_server.py"
+      ]
+    }
+  }
+}
