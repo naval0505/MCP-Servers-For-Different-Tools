@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "nmap-mcp": {
+      "command": "/usr/bin/python",
+      "args": [
+        "/home/kali/mcp/nmap/nmap_server.py"
+      ]
+    }
+  }
+}
