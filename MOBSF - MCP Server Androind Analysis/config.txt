@@ -1,0 +1,16 @@
+
+{
+  "mcpServers": {
+    "mobsf": {
+      "command": "/usr/bin/python3",
+      "args": [
+        "/home/kali/mcp/android/mobsf_mcp.py"
+      ],
+      "env": {
+        "MOBSF_URL": "http://127.0.0.1:8000",
+        "MOBSF_API_KEY": "YOUR_MOBSF_API_KEY",
+        "MOBSF_REPORT_DIR": "/home/kali/mcp/android/mobsf_reports"
+      }
+    }
+  }
+}
